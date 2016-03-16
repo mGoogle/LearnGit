@@ -1,25 +1,2 @@
 
-1¡ª¡ªµ¤Â¶ÂÛÌ³£¨bbs.idanlu.com£©
- ÕËºÅ£ºliliinhao@danlu.com | ÃÜÂë£º mpxh_qq_01
-
-2¡ª¡ªµ¤Â¶ÓÊÏä£¨mail.danlu.com£©
- ÕËºÅ£ºlilinhao@danlu.com | ÃÜÂë£ºmpxh_qq_01
-
-3¡ª¡ª¹«Ë¾GitÍøÖ·£ºhttp://182.92.230.201:8000/users/sign_in
- LDAP: lilinhao@danlu.com | Password: lilinhao
- 
-
-4¡ª¡ª¹«Ë¾RedmineÍøÖ·£ºhttp://182.92.230.201:3000/
- µÇÂ¼Ãû£ºlilinhao@danlu.com | ÃÜÂë£ºlilinhao
-
-5¡ª¡ª¹«Ë¾ Svn ÍøÖ·£ºhttp://idanlu.com/svn/designPub/
-
- http://182.92.230.201/svn/designPub/DL_PDM_DESIGN/B0112_B2B
-
-
-
-
-
-1¡¢GithubÕËºÅ
- Username: mGoogle | Email:1480417287@qq.com | Password:lhft_qq_03
-
+byï¼šwooyun
